@@ -1,6 +1,6 @@
-# BuildYourOwnDistrib
+# Distrib Builder
 
-BuildYourOwnDistrib is a project of ETNA, where we have to make ManHelper and Install script in BASH.
+Dristrib Builder is a project where we have to make ManHelper and Install script in BASH.
 
 ## ManHelper
 
