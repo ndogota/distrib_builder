@@ -1,0 +1,4 @@
+Usage: ./manhelper.sh [COMMAND] <OPTION> [FLAG NAME]
+OPTION:
+    --usageflag [FLAG NAME] : Display information for the [FLAG NAME]
+    --describe : Display description of the command
