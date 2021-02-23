@@ -1,6 +1,6 @@
 # Distrib Builder
 
-Dristrib Builder is a project where we have to make ManHelper and Install script in BASH.
+Dristrib Builder is a project where we have to make ManHelper and Script Installer in BASH.
 
 ## ManHelper
 
